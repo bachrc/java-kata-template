@@ -6,3 +6,4 @@ Don't waste any more time on setting your environment up, click on the Gitpod li
 
 [![Open In Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/bachrc/java-kata-template)
 
+Just run on the VSCode terminal `mvn test`. Good luck on your TDD cycles!
